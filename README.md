@@ -1,16 +1,16 @@
-# atm_consultoria
+# The LOVE Consultoria
 
-A new Flutter project.
+O aplicativo **The LOVE Consultoria** é uma ferramenta desenvolvida para ajudar as pessoas a desenvolverem conexões genuínas e significativas no mundo moderno dos relacionamentos. A aplicação foi criada na aula de **Programação para Dispositivos Móveis** no dia **5 de setembro de 2024** como parte de um projeto prático para aprender a mexer com widgets e praticar seu uso.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Página Inicial:** Apresenta o nome da consultoria e opções de navegação.
+- **Sobre a Empresa:** Informações sobre a empresa, sua missão e valores.
+- **Nossos Serviços:** Detalhes sobre os serviços oferecidos, como consultorias e aulas específicas.
+- **Clientes:** Testemunhos de clientes satisfeitos.
+- **Contato:** Informações de contato, incluindo e-mail e telefone.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter: Um SDK de UI para criar aplicativos nativos.
+- Dart: A linguagem de programação utilizada pelo Flutter.
